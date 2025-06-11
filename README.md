@@ -4,9 +4,9 @@
 <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f3.png" width="20px"/>
 </h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300px" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1a2b&height=200&section=header&text=Naina%20Sharma&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
 
 ---
 
@@ -46,6 +46,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naina-coderr&theme=tokyonight&column=7" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naina-coderr&theme=tokyonight" />
@@ -60,7 +67,7 @@
 ### 🔗 Let's Connect!
 <p align="left">
   <a href="linkedin.com/in/naina-sharma-0b74b6287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/naina-sharma-0b74b6287-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Naina_Sharma-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:naina091203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-naina091203@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
