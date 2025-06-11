@@ -55,11 +55,11 @@
 
 ### 🔗 Let's Connect!
 <p>
-  <a href="https://www.linkedin.com/in/naina-sharma" target="_blank">
+  <a href=linkedin.com/in/naina-sharma-0b74b6287 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Naina_Sharma-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:nainasharma@example.com">
-    <img src="https://img.shields.io/badge/Gmail-nainasharma@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:naina091203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-naina091203@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
