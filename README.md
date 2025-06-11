@@ -1,53 +1,76 @@
-<h2 align="left">Hi 👋! I'm Naina Sharma, a coding enthusiast from India 🇮🇳</h2>
-
----
+<h1 align="center">Hi there 👋, I'm Naina Sharma</h1>
+<h3 align="center">✨ A passionate coding enthusiast from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naina-coderr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naina-coderr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300px" />
 </div>
 
 ---
 
-<img align="right" height="160" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  />
+### 💫 About Me
+- 🎓 IT Undergrad | Developer | Tech Explorer
+- 💡 I love transforming ideas into code and building real-world projects
+- 🧠 Self-driven and currently diving deep into Full Stack Development & DSA
+- ✨ Future goals: Build an IDE, contribute to open source & explore AI
 
 ---
 
-### 🌟 Projects I'm Proud Of:
+### 🌟 Projects I'm Proud Of
+- 🔍 **YOLO Camera Detection** – Real-time object detection using YOLO + OpenCV  
+- 🌍 **Google Translator App** – Translate any language, built with Python  
+- 🛠️ **Smart Code Debugger** – Custom tool for code analysis & error checking  
+- 🧠 **Deep Learning Playground** – CNNs, RNNs, Grad-CAM & visualizations
 
-- 🔍 [YOLO Camera Detection](https://github.com/naina-coderr/YOLO-Camera-Detection)  
-- 🌍 [Google Translator App](https://github.com/naina-coderr/Google-Translator)
+---
+
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
 ---
 
 ### 🌱 Currently Learning
-<img src="https://img.shields.io/badge/🌱%20Currently%20Learning-DSA%20in%20Java%20&%20MERN%20Stack-success?style=for-the-badge"/>
+![Learning](https://img.shields.io/badge/🌱_Learning-Full_Stack_Dev-brightgreen)
+![Learning](https://img.shields.io/badge/📚_DSA-Intermediate-blue)
+![Learning](https://img.shields.io/badge/💡_Open_Source-Contributions-orange)
 
 ---
 
-### 🚀 Goals:
-- Build beginner-friendly real-world projects 💡  
-- Master DSA and full-stack development step by step  
-- Share and grow through open-source work 🌐
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naina-coderr&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naina-coderr&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina-coderr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+### 🔗 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/naina-sharma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Naina_Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nainasharma@example.com">
+    <img src="https://img.shields.io/badge/Gmail-nainasharma@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📫 Let's Connect!
+### 💬 Fun Fact
+> “First, solve the problem. Then, write the code.” – John Johnson
 
-<div
+---
+
+### 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naina-coderr&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
